@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T12:50:53.593Z",
+  "numbering": "श्रीमाता = nama 1; ॐ is an un-numbered invocation",
+  "default": "human",
+  "sources": {
+    "human": {
+      "label": "Human recitation",
+      "synthetic": false,
+      "credit": "Recitation from the project audio folder (speaker credit to be confirmed).",
+      "timingsNote": "Per-nama timings estimated automatically from pauses in the audio; please check by ear.",
+      "verses": {
+        "1": {
+          "file": "audio/Verse 1b.mp3",
+          "duration": 19.145,
+          "namas": {
+            "1": {
+              "start": 4.525,
+              "end": 6.12
+            },
+            "2": {
+              "start": 6.12,
+              "end": 8.455
+            },
+            "3": {
+              "start": 8.455,
+              "end": 12.03
+            },
+            "4": {
+              "start": 12.03,
+              "end": 15.48
+            },
+            "5": {
+              "start": 15.48,
+              "end": 18.45
+            }
+          },
+          "invocation": {
+            "text": "ॐ",
+            "start": 0.42,
+            "end": 4.525
+          }
+        },
+        "2": {
+          "file": "audio/Verse 2.mp3",
+          "duration": 15.745,
+          "namas": {
+            "6": {
+              "start": 0.42,
+              "end": 3.86
+            },
+            "7": {
+              "start": 3.86,
+              "end": 7.46
+            },
+            "8": {
+              "start": 7.46,
+              "end": 11.575
+            },
+            "9": {
+              "start": 11.575,
+              "end": 15.14
+            }
+          }
+        },
+        "3": {
+          "file": "audio/Verse 3.mp3",
+          "duration": 14.155,
+          "namas": {
+            "10": {
+              "start": 0.43,
+              "end": 3.775
+            },
+            "11": {
+              "start": 3.775,
+              "end": 7.505
+            },
+            "12": {
+              "start": 7.505,
+              "end": 13.46
+            }
+          }
+        },
+        "4": {
+          "file": "audio/Verse 4.mp3",
+          "duration": 12.725,
+          "namas": {
+            "13": {
+              "start": 0.45,
+              "end": 6.31
+            },
+            "14": {
+              "start": 6.31,
+              "end": 12.02
+            }
+          }
+        },
+        "5": {
+          "file": "audio/Verse 5.mp3",
+          "duration": 12.235,
+          "namas": {
+            "15": {
+              "start": 0.42,
+              "end": 6.1
+            },
+            "16": {
+              "start": 6.1,
+              "end": 11.6
+            }
+          }
+        }
+      },
+      "slow": {}
+    }
+  }
+}
